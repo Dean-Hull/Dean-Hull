@@ -15,6 +15,7 @@ I have extensive experience designing and developing experiences for innovative 
 <img align="left" alt="html5" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="css3" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="figma" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
+<img align="left" alt="figma" width="50px" style="padding-right:10px" src="icons/3dsmax.svg"/>
 
 <br></br>
 

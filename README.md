@@ -4,7 +4,7 @@
 
 I have extensive experience designing and developing experiences for innovative companies, managing complex projects and working across cross functional teams while building and maintaining strong relationships with clients. I am passionate about the latest technology trends and am always looking at ways to integrate new ideas into viable solutions.
 
----
+#
 
 ### Languages and Tools
 
@@ -12,12 +12,19 @@ I have extensive experience designing and developing experiences for innovative 
 <img align="left" alt="unreal" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
 <img align="left" alt="csharp" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 <img align="left" alt="github" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+<img align="left" alt="html5" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left" alt="css3" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+<img align="left" alt="figma" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
 <br></br>
 
 #
 
-### Portfolio
+### Useful Links
+
+<a href="https://www.linkedin.com/in/dean-hull-32b4659b/">
+  <img align="left" alt="linkedin" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
 
 <br></br>
 

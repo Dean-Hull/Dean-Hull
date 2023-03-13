@@ -21,6 +21,18 @@ I have extensive experience designing and developing experiences for innovative 
 
 #
 
+### Portfolio
+
+| [![Avalara CRUSH City](/img/avalara-crush-city.jpg)](https://youtu.be/aJ1WibXaPw4)<br/>[Avalara CRUSH City](https://youtu.be/aJ1WibXaPw4)| [![Apartment Finder](/img/apartment-finder-app.jpg)](https://youtu.be/hX8p074RE7I)<br/>[Apartment Finder](https://youtu.be/hX8p074RE7I)| [![Sentek Animation](/img/sentek-animation.jpg)](https://youtu.be/eyWnWWGgXzI)<br/>[Sentek Animation](https://youtu.be/eyWnWWGgXzI)| 
+|:---|:---|:---|
+
+| [![ARCIMS Animation](/img/arcims-animation.jpg)](https://youtu.be/aK3pq7zxDo0)<br/>[ARCIMS Animation](https://youtu.be/aK3pq7zxDo0)| [![4D Phasing Animation](/img/ms-4d-animation.jpg)](https://youtu.be/QQFciVClk2M)<br/>[4D Phasing Animation](https://youtu.be/QQFciVClk2M)| [![STP Animation](/img/stp-animation.png)](https://youtu.be/aMYQZKyhr0M)<br/>[STP Animation](https://youtu.be/aMYQZKyhr0M)|
+|:---|:---|:---|
+
+<br></br>
+
+#
+
 ### Useful Links
 
 <a href="https://www.linkedin.com/in/dean-hull-32b4659b/">

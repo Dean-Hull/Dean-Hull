@@ -1,6 +1,6 @@
 # Dean Hull
 
-**`Software Developer & 3D Animator`**
+**`Software Developer & 3D Animator`** 
 
 I have extensive experience designing and developing experiences for innovative companies, managing complex projects and working across cross functional teams while building and maintaining strong relationships with clients. I am passionate about the latest technology trends and am always looking at ways to integrate new ideas into viable solutions.
 
@@ -23,13 +23,11 @@ I have extensive experience designing and developing experiences for innovative 
 
 ### Portfolio
 
-| [![Avalara CRUSH City](/img/avalara-crush-city.jpg)](https://youtu.be/aJ1WibXaPw4)<br/>[Avalara CRUSH City](https://youtu.be/aJ1WibXaPw4)| [![Apartment Finder](/img/apartment-finder-app.jpg)](https://youtu.be/hX8p074RE7I)<br/>[Apartment Finder](https://youtu.be/hX8p074RE7I)| [![Sentek Animation](/img/sentek-animation.jpg)](https://youtu.be/eyWnWWGgXzI)<br/>[Sentek Animation](https://youtu.be/eyWnWWGgXzI)| 
-|:---|:---|:---|
-
-| [![ARCIMS Animation](/img/arcims-animation.jpg)](https://youtu.be/aK3pq7zxDo0)<br/>[ARCIMS Animation](https://youtu.be/aK3pq7zxDo0)| [![4D Phasing Animation](/img/ms-4d-animation.jpg)](https://youtu.be/QQFciVClk2M)<br/>[4D Phasing Animation](https://youtu.be/QQFciVClk2M)| [![STP Animation](/img/stp-animation.png)](https://youtu.be/aMYQZKyhr0M)<br/>[STP Animation](https://youtu.be/aMYQZKyhr0M)|
-|:---|:---|:---|
-
-<br></br>
+| <a href="https://youtu.be/aJ1WibXaPw4"> <img width="300px" src="/img/avalara-crush-city.jpg"/> </br> <a href="https://youtu.be/aJ1WibXaPw4"> Avalara CRUSH City 2021 | <a href="https://youtu.be/hX8p074RE7I"> <img width="300px" src="/img/apartment-finder-app.jpg"/> </br> <a href="https://youtu.be/hX8p074RE7I"> Apartment Finder  | <a href="https://youtu.be/eyWnWWGgXzI"> <img width="300px" src="/img/sentek-animation.jpg"/> </br> <a href="https://youtu.be/eyWnWWGgXzI"> Sentek Animation |
+| -- | -- | -- |
+  
+| <a href="https://youtu.be/aK3pq7zxDo0"> <img width="300px" src="/img/arcims-animation.jpg"/> </br> <a href="https://youtu.be/aK3pq7zxDo0"> ARCIMS Animation | <a href="https://youtu.be/QQFciVClk2M"> <img width="300px" src="/img/ms-4d-animation.jpg"/> </br> <a href="https://youtu.be/QQFciVClk2M"> 4D Phasing Animation | <a href="https://youtu.be/aMYQZKyhr0M"> <img width="300px" src="/img/stp-animation.png"/> </br> <a href="https://youtu.be/aMYQZKyhr0M"> STP Animation |
+| -- | -- | -- |
 
 #
 
@@ -43,7 +41,7 @@ I have extensive experience designing and developing experiences for innovative 
 
 #
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dean-hull&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dean-hull/github-readme-stats#gh-dark-mode-only)
+[![Dean's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dean-hull&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dean-hull/github-readme-stats#gh-dark-mode-only)
 
 <!--
 **Dean-Hull/Dean-Hull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

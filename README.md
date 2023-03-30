@@ -40,8 +40,8 @@ I have extensive experience designing and developing experiences for innovative 
 <br></br>
 
 #
-
-[![Dean's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dean-hull&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dean-hull/github-readme-stats#gh-dark-mode-only)
+  
+![Dean's GitHub stats](https://github-readme-stats.vercel.app/api?username=dean-hull&show_icons=true&theme=dracula)
 
 <!--
 **Dean-Hull/Dean-Hull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

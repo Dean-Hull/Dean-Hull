@@ -4,7 +4,8 @@
 
 Senior Creative Software Engineer specialising in building immersive interactive experiences and modern web applications with Unity and React/Next.js. I focus on bridging the gap between design and engineering to deliver high quality, user friendly digital solutions. With a background in real-time 3D development, interactive systems and creative technology, I've delivered solutions including digital twins, AR experiences, virtual event platforms and business facing tools. I enjoy working in cross functional teams, solving problems and working with the latest technology.
 
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English (Native) &nbsp;&nbsp; 🇯🇵 Japanese (Beginner)
+<img src="https://flagcdn.com/24x18/gb-eng.png" alt="English"> English (Native) &nbsp;&nbsp;
+<img src="https://flagcdn.com/24x18/jp.png" alt="Japanese"> Japanese (Beginner)
 
 <h1>About Me</h1>  
 

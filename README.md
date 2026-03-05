@@ -25,12 +25,12 @@ I have extensive experience designing and developing experiences for innovative 
 
 | Project | Description | Tech | Demo |
 |------|------|------|------|
-| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="400" src="/img/DataTwin360.jpg"/> | Maritime Twin | Next.js, TypeScript, Tailwind, Azure, Shadcn, Figma | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="400" src="/img/DataTwin360.jpg"/> | AR Student Wayfinder | Unity, C#, Android, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="400" src="/img/DataTwin360.jpg"/> | DataTwin360 | Unity, C#, Azure, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
 | <img width="400" src="/img/apartment-finder-app.jpg"/> | 'The Oxbow' Apartment Finder | Unity, C#, 3ds Max | [Watch](https://youtu.be/hX8p074RE7I) |
-| <img width="400" src="/img/arcims-animation.jpg"/> | ARCIMS Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/aK3pq7zxDo0) |
-| <img width="400" src="/img/sentek-animation.jpg"/> | Sentek Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/eyWnWWGgXzI) |
-| <img width="400" src="/img/ms-4d-animation.jpg"/> | 4D Phasing Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/QQFciVClk2M) |
-| <img width="400" src="/img/stp-animation.png"/> | STP Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/aMYQZKyhr0M) |
+| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2022 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/aJ1WibXaPw4) |
 
 ### Languages
 

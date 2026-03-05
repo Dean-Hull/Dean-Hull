@@ -2,6 +2,7 @@
 
 **`Senior Creative Software Engineer | Unity · React/Next.js · C# · 3D`** 
 
+
 Senior Creative Software Engineer specialising in building immersive interactive experiences and modern web applications with Unity and React/Next.js. I focus on bridging the gap between design and engineering to deliver high quality, user friendly digital solutions. With a background in real-time 3D development, interactive systems and creative technology, I've delivered solutions including digital twins, AR experiences, virtual event platforms and business facing tools. I enjoy working in cross functional teams, solving problems and working with the latest technology.
 
 <img src="https://flagcdn.com/24x18/gb-eng.png" alt="English"> English (Native) &nbsp;&nbsp;
@@ -37,9 +38,9 @@ Senior Creative Software Engineer specialising in building immersive interactive
 
 <br>
 
-[![Dean's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=dean-hull&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/dean-hull/github-readme-stats#gh-dark-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dean-hull&layout=donut)](https://github.com/dean-hull/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=dean-hull&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=dean-hull&langs_count=4&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dean-hull&theme=tokyonight" alt="mystreak"/>
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dean-hull&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=dean-hull&include_all_commits=true&theme=tokyonight)
 

@@ -27,12 +27,12 @@ Senior Creative Software Engineer specialising in building immersive interactive
 
 | Project | Description | Tech | Demo |
 |------|------|------|------|
-| <img width="300" src="/img/DataTwin360.jpg"/> | Maritime Twin | Next.js, TypeScript, Tailwind, Azure, Shadcn, Figma | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="300" src="/img/DataTwin360.jpg"/> | AR Student Wayfinder | Unity, C#, Android, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="300" src="/img/DataTwin360.jpg"/> | DataTwin360 | Unity, C#, Azure, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="300" src="/img/avalara-crush-city.jpg"/> | 'The Oxbow' Apartment Finder | Unity, C#, 3ds Max | [Watch](https://youtu.be/hX8p074RE7I) |
-| <img width="300" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2022 | Unity, WebGL, React, C#, AWS, Vercel, XD, Prismic | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="300" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS, Vercel, XD, Prismic | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="400" src="/img/maritime-twin.jpg"/> | Maritime Twin | Next.js, TypeScript, Tailwind, Azure, Shadcn, Figma | [Article](https://www.cgi.com/uk/en-gb/sustainability/MaritimeTwin) |
+| <img width="400" src="/img/ar-student-wayfinder.jpg"/> | AR Student Wayfinder | Unity, C#, Android, Blender | [Watch](https://youtu.be/c8TbUwKlYfA) |
+| <img width="400" src="/img/data-twin-360.jpg"/> | DataTwin360 | Unity, C#, Azure, Blender | [Watch](https://youtu.be/bmUeRhA8Fi4) |
+| <img width="400" src="/img/apartment-finder-app.jpg"/> | 'The Oxbow' Apartment Finder | Unity, C#, 3ds Max | [Watch](https://youtu.be/hX8p074RE7I) |
+| <img width="400" src="/img/avalara-crush-global.jpg"/> | Avalara CRUSH City 2022 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/Y6lzGzbZkYA?si=Bv4Bh9rbsTcjPHar) |
+| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/vQiMkAGiw7o?si=1MhjdNPep_9pST4e) |
 
 ### Useful Links
 

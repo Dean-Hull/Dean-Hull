@@ -1,8 +1,10 @@
-<h1>Dean Hull</h1>
+<h1>Dean Hull</h1> 
 
-**`Senior Unity Developer | Frontend Developer`** 
+**`Senior Creative Software Engineer | Unity · React/Next.js · C# · 3D`** 
 
-I have extensive experience designing and developing experiences for innovative companies, managing complex projects and working across cross functional teams while building and maintaining strong relationships with clients. I am passionate about the latest technology trends and am always looking at ways to integrate new ideas into viable solutions.
+Senior Creative Software Engineer specialising in building immersive interactive experiences and modern web applications with Unity and React/Next.js. I focus on bridging the gap between design and engineering to deliver high quality, user friendly digital solutions. With a background in real-time 3D development, interactive systems and creative technology, I've delivered solutions including digital twins, AR experiences, virtual event platforms and business facing tools. I enjoy working in cross functional teams, solving problems and working with the latest technology.
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English (Native) &nbsp;&nbsp; 🇯🇵 Japanese (Beginner)
 
 <h1>About Me</h1>  
 
@@ -25,16 +27,12 @@ I have extensive experience designing and developing experiences for innovative 
 
 | Project | Description | Tech | Demo |
 |------|------|------|------|
-| <img width="400" src="/img/DataTwin360.jpg"/> | Maritime Twin | Next.js, TypeScript, Tailwind, Azure, Shadcn, Figma | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="400" src="/img/DataTwin360.jpg"/> | AR Student Wayfinder | Unity, C#, Android, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="400" src="/img/DataTwin360.jpg"/> | DataTwin360 | Unity, C#, Azure, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="400" src="/img/apartment-finder-app.jpg"/> | 'The Oxbow' Apartment Finder | Unity, C#, 3ds Max | [Watch](https://youtu.be/hX8p074RE7I) |
-| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2022 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/aJ1WibXaPw4) |
-| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/aJ1WibXaPw4) |
-
-### Languages
-
-🏴󠁧󠁢󠁥󠁮󠁧󠁿 English (Native) &nbsp;&nbsp; 🇯🇵 Japanese (Beginner)
+| <img width="300" src="/img/DataTwin360.jpg"/> | Maritime Twin | Next.js, TypeScript, Tailwind, Azure, Shadcn, Figma | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="300" src="/img/DataTwin360.jpg"/> | AR Student Wayfinder | Unity, C#, Android, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="300" src="/img/DataTwin360.jpg"/> | DataTwin360 | Unity, C#, Azure, Blender | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="300" src="/img/avalara-crush-city.jpg"/> | 'The Oxbow' Apartment Finder | Unity, C#, 3ds Max | [Watch](https://youtu.be/hX8p074RE7I) |
+| <img width="300" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2022 | Unity, WebGL, React, C#, AWS, Vercel, XD, Prismic | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="300" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS, Vercel, XD, Prismic | [Watch](https://youtu.be/aJ1WibXaPw4) |
 
 ### Useful Links
 

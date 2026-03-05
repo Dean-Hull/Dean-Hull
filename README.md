@@ -1,43 +1,42 @@
-# Dean Hull
+<h1>Dean Hull</h1>
 
-**`Software Developer & 3D Animator`** 
+**`Senior Unity Developer | Frontend Developer`** 
 
 I have extensive experience designing and developing experiences for innovative companies, managing complex projects and working across cross functional teams while building and maintaining strong relationships with clients. I am passionate about the latest technology trends and am always looking at ways to integrate new ideas into viable solutions.
+
+<h1>About Me</h1>  
+
+- Senior developer specialising in interactive platforms and experiences
+- Experienced building React / Next.js web applications and components
+- Background in real-time 3D development with Unity
+- Delivered digital twins, event platforms, ar experiences and enterprise tools
+- Comfortable working across frontend, 3d and cloud
+- Interested in high quality user experiences, creative technology and emerging technologies
 
 #
 
 ### Languages and Tools
 
-<img align="left" alt="unity" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
-<img align="left" alt="unreal" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
-<img align="left" alt="csharp" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="github" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
-<img align="left" alt="html5" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="css3" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="figma" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" alt="figma" width="50px" style="padding-right:10px" src="icons/3dsmax.svg"/>
-
-<br></br>
+[![My Skills](https://skillicons.dev/icons?i=unity,unreal,react,nextjs,dotnet,cs,ts,threejs,html,css,tailwind,git,github,azure,aws,vercel,figma,blender&perline=9)](https://skillicons.dev)
 
 #
 
-### Portfolio
+### Featured Projects
 
-| <a href="https://youtu.be/aJ1WibXaPw4"> <img width="300px" src="/img/avalara-crush-city.jpg"/> </br> <a href="https://youtu.be/aJ1WibXaPw4"> Avalara CRUSH City 2021 | <a href="https://youtu.be/hX8p074RE7I"> <img width="300px" src="/img/apartment-finder-app.jpg"/> </br> <a href="https://youtu.be/hX8p074RE7I"> Apartment Finder  | <a href="https://youtu.be/eyWnWWGgXzI"> <img width="300px" src="/img/sentek-animation.jpg"/> </br> <a href="https://youtu.be/eyWnWWGgXzI"> Sentek Animation |
-| -- | -- | -- |
-  
-| <a href="https://youtu.be/aK3pq7zxDo0"> <img width="300px" src="/img/arcims-animation.jpg"/> </br> <a href="https://youtu.be/aK3pq7zxDo0"> ARCIMS Animation | <a href="https://youtu.be/QQFciVClk2M"> <img width="300px" src="/img/ms-4d-animation.jpg"/> </br> <a href="https://youtu.be/QQFciVClk2M"> 4D Phasing Animation | <a href="https://youtu.be/aMYQZKyhr0M"> <img width="300px" src="/img/stp-animation.png"/> </br> <a href="https://youtu.be/aMYQZKyhr0M"> STP Animation |
-| -- | -- | -- |
-
-#
+| Project | Description | Tech | Demo |
+|------|------|------|------|
+| <img width="400" src="/img/avalara-crush-city.jpg"/> | Avalara CRUSH City 2021 | Unity, WebGL, React, C#, AWS | [Watch](https://youtu.be/aJ1WibXaPw4) |
+| <img width="400" src="/img/apartment-finder-app.jpg"/> | 'The Oxbow' Apartment Finder | Unity, C#, 3ds Max | [Watch](https://youtu.be/hX8p074RE7I) |
+| <img width="400" src="/img/arcims-animation.jpg"/> | ARCIMS Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/aK3pq7zxDo0) |
+| <img width="400" src="/img/sentek-animation.jpg"/> | Sentek Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/eyWnWWGgXzI) |
+| <img width="400" src="/img/ms-4d-animation.jpg"/> | 4D Phasing Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/QQFciVClk2M) |
+| <img width="400" src="/img/stp-animation.png"/> | STP Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/aMYQZKyhr0M) |
 
 ### Useful Links
 
-<a href="https://www.linkedin.com/in/dean-hull-32b4659b/">
-  <img align="left" alt="linkedin" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-  </a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://www.linkedin.com/in/dean-hull-32b4659b/)
 
-<br></br>
+<br>
 
 #
 
@@ -47,18 +46,3 @@ I have extensive experience designing and developing experiences for innovative 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dean-hull&theme=tokyonight" alt="mystreak"/>
 
-
-<!--
-**Dean-Hull/Dean-Hull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -15,7 +15,7 @@ I have extensive experience designing and developing experiences for innovative 
 
 #
 
-### Languages and Tools
+### Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=unity,unreal,react,nextjs,dotnet,cs,ts,threejs,html,css,tailwind,git,github,azure,aws,vercel,figma,blender&perline=9)](https://skillicons.dev)
 
@@ -31,6 +31,10 @@ I have extensive experience designing and developing experiences for innovative 
 | <img width="400" src="/img/sentek-animation.jpg"/> | Sentek Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/eyWnWWGgXzI) |
 | <img width="400" src="/img/ms-4d-animation.jpg"/> | 4D Phasing Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/QQFciVClk2M) |
 | <img width="400" src="/img/stp-animation.png"/> | STP Animation | 3ds Max, Vray, Phoenix FD, Photoshop | [Watch](https://youtu.be/aMYQZKyhr0M) |
+
+### Languages
+
+🏴󠁧󠁢󠁥󠁮󠁧󠁿 English (Native) &nbsp;&nbsp; 🇯🇵 Japanese (Beginner)
 
 ### Useful Links
 
